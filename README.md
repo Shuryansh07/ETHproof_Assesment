@@ -4,7 +4,7 @@ This Solidity smart contract defines a basic token called TechyBling (abbreviate
 # Contract Overview
 The MyToken contract includes the following features:
 
-Public Variables: Token name, abbreviation, and total supply.
+Public Variables: Token name, abbreviation, and total supply.\
 Mapping: To keep track of balances for each address.
 Mint Function: To create new tokens.
 Burn Function: To destroy tokens.
