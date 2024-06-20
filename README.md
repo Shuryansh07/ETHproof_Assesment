@@ -26,7 +26,10 @@ The `MyToken` contract includes the following features:
 #### `mint`
 This function increases the total supply of the token and updates the balance of the specified address.
 
-#### 'burn'
+#### `burn`
 This function decreases the total supply of the token and updates the balance of the specified address, provided the address has enough tokens to burn.
+
+# License
+This project is licensed under the MIT License.
 
 
